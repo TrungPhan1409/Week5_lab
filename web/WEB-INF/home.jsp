@@ -1,6 +1,6 @@
 <%-- 
     Document   : home
-    Created on : 13-Feb-2023, 1:11:00 AM
+    Created on : 12-Feb-2023, 11:11:00 AM
     Author     : darkn
 --%>
 
@@ -14,7 +14,7 @@
     <body>
         <h1>Home Page</h1>
         <h2>   Hello ${username} !</h2>
-            <a href="login?action=logout" > Log out</a>
+            <a href="login?logout" > Log out</a>
     </body>
 </html>
 
